@@ -17,7 +17,11 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
+<<<<<<< HEAD
 																	GlobalSection(MonoDevelopProperties) = preSolution
+=======
+															GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> fd47174c7e2ba8fb0423e400b0fd00e0c95d3948
 		StartupItem = multiSrcipt.unityproj
 		Policies = $0
 		$0.TextStylePolicy = $1

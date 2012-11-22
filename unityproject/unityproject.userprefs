@@ -1,11 +1,18 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\player.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\server-client.js">
     <Files>
+<<<<<<< HEAD
       <File FileName="Assets\player.js" Line="11" Column="16" />
       <File FileName="Assets\Instantiate.js" Line="1" Column="1" />
       <File FileName="Assets\Control.js" Line="1" Column="1" />
       <File FileName="Assets\server-client.js" Line="58" Column="29" />
+=======
+      <File FileName="Assets\Instantiate.js" Line="1" Column="1" />
+      <File FileName="Assets\Control.js" Line="5" Column="18" />
+      <File FileName="Assets\server-client.js" Line="58" Column="29" />
+      <File FileName="Assets\player.js" Line="1" Column="1" />
+>>>>>>> fd47174c7e2ba8fb0423e400b0fd00e0c95d3948
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
