@@ -46,7 +46,7 @@
   <ItemGroup>
      <Compile Include="Assets\Control.js" />
      <Compile Include="Assets\Instantiate.js" />
-     <Compile Include="Assets\Player.js" />
+     <Compile Include="Assets\player.js" />
      <Compile Include="Assets\server-client.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
