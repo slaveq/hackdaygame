@@ -58,4 +58,5 @@ function OnConnectedToServer () {
  	for (var go : GameObject in FindObjectsOfType(GameObject))
   		go.SendMessage("OnNetworkLoadedLevel", 
 		SendMessageOptions.DontRequireReceiver);  
+		Debug.Log("connection established");
 }
